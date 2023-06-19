@@ -4,4 +4,4 @@ openai-whisper==20230314
 ffmpeg-python==0.2.0
 pyannote @ https://github.com/pyannote/pyannote-audio/archive/refs/heads/develop.zip
 pydub==0.25.1
-numpy==1.21.2
+numpy==1.24.3

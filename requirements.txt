@@ -1,5 +1,6 @@
 python-docx==0.8.11
-streamlit==1.22.0
-whisper @ git+https://github.com/MiscellaneousStuff/whisper.git
+streamlit==1.23.1
+openai-whisper==20230314
 ffmpeg-python==0.2.0
-matplotlib==3.7.1
+pyannote @ https://github.com/pyannote/pyannote-audio/archive/refs/heads/develop.zip
+pydub==0.25.1

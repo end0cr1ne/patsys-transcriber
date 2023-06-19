@@ -2,6 +2,6 @@ python-docx==0.8.11
 streamlit==1.23.1
 openai-whisper==20230314
 ffmpeg-python==0.2.0
-pyannote @ git+https://github.com/pyannote/pyannote-audio.git -qq
+-qq git+https://github.com/pyannote/pyannote-audio.git
 pydub==0.25.1
 numpy==1.24.3
